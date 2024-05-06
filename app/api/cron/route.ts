@@ -7,7 +7,7 @@ import { NextResponse } from "next/server";
 import { title } from "process";
 
 
-export const maxDuration = 300;
+export const maxDuration = 10;
 export const dynamic ='force-dynamic';
 export const revalidate = 0;
 
